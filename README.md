@@ -69,5 +69,6 @@ A lo largo del proyecto se incluyen diversas visualizaciones, tales como:
 
 El análisis fue realizado utilizando las siguientes herramientas:
 - **R** para la limpieza y manipulación de los datos.
-- **ggplot2** para las visualizaciones gráficas.
+- **Tidyvers y openxlsx**.
 - **Power BI** para las visualizaciones adicionales interactivas.
+- **Microsoft Excel** para validaciones y fuente de datos de Power BI.
